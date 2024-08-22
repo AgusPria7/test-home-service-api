@@ -77,10 +77,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 
-/**
- *
- * @author imamsolikhin
- */
 @Component
 public class AppUtils {
 
